@@ -8,7 +8,7 @@
 */
 
 body{
-    background-color: rgb(83, 162, 31);
+    background-color: #7B1FA2;
 }
 
 h1{
@@ -44,7 +44,7 @@ ul li {
 }
 
 #myContent{
-    background-color: #E1BEE7;
+    background-color: rgb(208, 7, 243);
     margin: auto;
     width: 500px;
 }
